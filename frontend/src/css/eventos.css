@@ -1,0 +1,37 @@
+.eventos-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .eventos-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .evento-item {
+    background: #f9f9f9;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .evento-item div {
+    margin-bottom: 10px;
+  }
+  
+  .evento-item strong {
+    font-size: 1.3em;
+    color: #333;
+  }
+  
+  .evento-item span {
+    font-size: 1.1em;
+    color: #555;
+  }
+  

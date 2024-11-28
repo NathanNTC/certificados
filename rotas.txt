@@ -1,0 +1,11 @@
+auth-service:           8000-------Finalizado
+email-service:          8001-------Finalizado
+event-service:          8002-------Finalizado
+inscription-service:    8003-------Finalizado
+checkin-service:        8004-------Finalizado
+certificate-service:    8005-------Finalizado
+frontend:               5173-------Finalizado
+-service:               8006-------
+-service:               8007
+-service:               8008
+Flutter
