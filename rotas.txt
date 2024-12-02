@@ -1,10 +1,10 @@
-auth-service:           8000-------Finalizado
-email-service:          8001-------Finalizado
-event-service:          8002-------Finalizado
-inscription-service:    8003-------Finalizado
-checkin-service:        8004-------Finalizado
-certificate-service:    8005-------Finalizado
-frontend:               5173-------Finalizado
+auth-service:           8000-------Finalizado       php artisan serve --host=0.0.0.0 --port=8000
+email-service:          8001-------Finalizado       php artisan serve --host=0.0.0.0 --port=8001
+event-service:          8002-------Finalizado       php artisan serve --host=0.0.0.0 --port=8002
+inscription-service:    8003-------Finalizado       php artisan serve --host=0.0.0.0 --port=8003
+checkin-service:        8004-------Finalizado       php artisan serve --host=0.0.0.0 --port=8004
+certificate-service:    8005-------Finalizado       php artisan serve --host=0.0.0.0 --port=8005
+frontend:               5173-------Finalizado       npm run dev --host=0.0.0.0
 -service:               8006-------
 -service:               8007
 -service:               8008

@@ -115,4 +115,4 @@ const cancelarInscricao = async (inscriptionId) => {
 };
 </script>
 
-<style src="../css/Inscriptions.css"></style>
+<style src="../css/inscriptions.css"></style>
